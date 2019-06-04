@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Blacked
 channels_xxx/Blacked.m3u
+#EXTINF:-1,Filmiki
+channels_xxx/Filmiki.m3u
+#EXTINF:-1,Full_Film
+channels_xxx/Full_Film.m3u
+#EXTINF:-1,Hardcore
+channels_xxx/Hardcore.m3u
+#EXTINF:-1,Old_Timer
+channels_xxx/Old_Timer.m3u
+#EXTINF:-1,VOD
+channels_xxx/VOD.m3u
